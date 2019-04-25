@@ -1,0 +1,14 @@
+Analysis & Synthesis Status : Successful - Fri Jul 06 13:51:17 2018
+Quartus II 64-Bit Version : 13.0.0 Build 156 04/24/2013 SJ Full Version
+Revision Name : WSYCPU
+Top-level Entity Name : CPUU
+Family : Cyclone III
+Total logic elements : 280
+    Total combinational functions : 205
+    Dedicated logic registers : 106
+Total registers : 106
+Total pins : 71
+Total virtual pins : 0
+Total memory bits : 248
+Embedded Multiplier 9-bit elements : 0
+Total PLLs : 0

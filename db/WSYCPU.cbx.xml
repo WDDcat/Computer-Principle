@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<LOG_ROOT>
+	<PROJECT NAME="WSYCPU">
+		<CBX_INST_ENTRY INSTANCE_NAME="|CPUU|CM:inst10|LPM_ROM:inst|altrom:srom|altsyncram:rom_block" CBX_FILE_NAME="altsyncram_1901.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|CPUU|Memory:inst5|LPM_RAM_DQ:inst7|altram:sram|altsyncram:ram_block" CBX_FILE_NAME="altsyncram_gja1.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|CPUU|Memory:inst5|LPM_RAM_DQ:inst8|altram:sram|altsyncram:ram_block" CBX_FILE_NAME="altsyncram_tba1.tdf"/>
+	</PROJECT>
+</LOG_ROOT>
